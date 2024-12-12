@@ -4,7 +4,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.2
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International. 1
+  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International. 3
 -->
 
 # GitHub Actions: Writing JavaScript Actions
